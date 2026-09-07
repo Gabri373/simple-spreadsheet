@@ -1,2 +1,7 @@
 # spreadsheet
-It's my first prototype of a simple spreadsheet where you can color cells, rows and columns and modify some text's proprierties. You can also add some simple functions and there is a console for errors and warnings.
+It's my first prototype of a simple spreadsheet application built with Python and Qt Designer.
+Features:
+- Color cells, rows and columns
+- Modify some text's proprierties
+- Add some simple functions like Add, Subtract, Is_Equal...
+- Built-in console for errors and warnings
