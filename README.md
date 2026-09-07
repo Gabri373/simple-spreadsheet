@@ -1,4 +1,4 @@
-# spreadsheet
+# simple-spreadsheet
 It's my first prototype of a simple spreadsheet application built with Python and Qt Designer.
 Features:
 - Color cells, rows and columns
